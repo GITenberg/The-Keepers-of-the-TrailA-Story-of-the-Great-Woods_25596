@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2561
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25596#The-Keepers-of-the-TrailA-Story-of-the-Great-Woods
 gutenberg_issued: '2008-05-25'
 gutenberg_type: Text
 identifiers:
